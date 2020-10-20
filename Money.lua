@@ -19,7 +19,7 @@ print("Infinity")
 game.StarterGui:SetCore("SendNotification", {
     Title = "Infinity"; 
     Text = "Nuke#7994 <3"; 
-    Icon = "https://www.roblox.com/asset/?id=5567712611"; 
+    Icon = "http://www.roblox.com/asset/?id=5567712594"; 
     Duration = 30;
     Callback = bindableFunction;
     Button1 = "";  
