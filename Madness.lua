@@ -13,8 +13,6 @@
 Nuke#1824 <3
 --]]
 
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/NukeXV/Infinity/main/notification.lua'),true))()
-
 --// LuXS Obfuscator 1.1 
 --// https://discord.com/invite/zFcJM9bbBV
 --// https://v3rmillion.net/member.php?action=profile&uid=1871071
