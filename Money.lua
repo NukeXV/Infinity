@@ -22,5 +22,3 @@ return(function(lIlllIIlIlIlIl,IIIIIIIlllIl,llllIllIIlI)local lllllIlIIIIIIIIIII
 --Nuke#1824 <3--
 --https://v3rmillion.net/member.php?action=profile&uid=1871071--
 --AntiBan--
-
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/Senna-Cmd/Infinity/main/AntiBan.lua'),true))()
